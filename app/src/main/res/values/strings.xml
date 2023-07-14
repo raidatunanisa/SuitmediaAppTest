@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="empty_name_error">Tolong masukkan nama terlebih dahulu</string>
+    <string name="empty_text_error">Tolong Masukkan text Terlebih dahulu</string>
+</resources>
